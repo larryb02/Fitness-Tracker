@@ -1,0 +1,9 @@
+Tools Needed:
+
+    Frontend:
+        - html, react.js
+    Backend:
+        - choose between node.js/go/c#/java/python
+    Database:
+        - Sql Lite
+
